@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rlHeader" type="id"/>
+    <item name="llLoginPanel" type="id"/>
+    <item name="login_signup" type="id"/>
+</resources>
