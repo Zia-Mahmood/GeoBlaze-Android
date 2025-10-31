@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="google_maps_api_key">AIzaSyDP3fJIO-c-Gwtlc2OLtLIZGLD0OjZI3mI</string>
+    <string name="google_maps_api_key">YOUR_GOOGLE_MAPS_API_KEY</string>
     <string name="logo">Logo</string>
     <string name="vehicle_no">Vehicle No.</string>
     <string name="password">Password</string>
